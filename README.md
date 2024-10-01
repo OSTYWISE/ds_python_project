@@ -1,4 +1,4 @@
-# DS python fun project
-This is DS Python Project (owner - Yurakhno Konstantin) about Pokemons. Just relax)
+# Pokemon fun project
+This is my first DS Python Project (owner - Yurakhno Konstantin) about Pokemons. Enjoy)
 
 **Date: June 2022**
